@@ -1,0 +1,63 @@
+.navbar{
+	box-shadow: 0px 2px 4px #000;
+	opacity: .98;
+}
+
+.navbar .nav-item .nav-link{
+	color: #fff
+
+}
+
+
+.logo{
+	width: 50px;
+	color: white;	
+}
+
+.miau{
+	font-size: 60px;
+}
+
+.invert { filter: invert(100%); }
+
+.main-header{
+	background: url(../images/background.jpg);
+	background-size: cover;
+	min-height: 550px;
+	position: relative;
+}
+
+.background-overlay{
+	background: rgba(109, 33, 79,.7);
+	min-height: 100%;
+	min-width: 100%;
+	top:0;
+	left:0;
+	position: absolute;
+}
+
+.foto{
+	height: 400px;
+	margin-left: 20%
+}
+
+.titulo{
+	margin: 10% ;
+}
+
+.form-control, .btn{
+	border-radius: 0;
+	border-style: none
+
+}
+
+.news{
+	height: 4250px;
+}
+
+.sub-news{
+	position: absolute;
+}
+.team{
+	background: rgba(109, 33, 79,.7);
+}
